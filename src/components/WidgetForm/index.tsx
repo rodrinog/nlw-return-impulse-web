@@ -24,7 +24,7 @@ export const feedbackTypes = {
         }
     },
     OTHER: {
-        title: 'Outro',
+        title: 'Outras',
         image: {
             source: thoughtImageUrl,
             alt: 'Núvem de pensamento'
